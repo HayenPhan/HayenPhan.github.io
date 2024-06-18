@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.21472b3c.css",
-    "main.js": "/static/js/main.49344b4c.js",
+    "main.css": "/static/css/main.5b033e45.css",
+    "main.js": "/static/js/main.37b4ff7d.js",
     "static/media/MusicRoom.png": "/static/media/MusicRoom.41519389cd3f10638250.png",
     "static/media/MusicLobby.png": "/static/media/MusicLobby.bd23d2866506141272c8.png",
     "static/media/mockup-divineapocalypse-desktop.png": "/static/media/mockup-divineapocalypse-desktop.160b639edc44908b97ee.png",
     "static/media/character.png": "/static/media/character.9014977ea1c75bc1b807.png",
+    "static/media/mockup-skynerium-desktop.png": "/static/media/mockup-skynerium-desktop.339e6febcf3747c9c4d8.png",
+    "static/media/mockup-bloody-desktop.png": "/static/media/mockup-bloody-desktop.990a6fc6072362bca339.png",
     "static/media/mockup-musicterra-desktop.png": "/static/media/mockup-musicterra-desktop.cd601d34107ee4de2461.png",
     "static/media/mockup-blownaway-desktop.png": "/static/media/mockup-blownaway-desktop.ac85ce97b48fd80168d7.png",
     "static/media/wokkel-image.png": "/static/media/wokkel-image.fa5550a174c402cc66b7.png",
+    "static/media/mockup-bloody-mobile.png": "/static/media/mockup-bloody-mobile.1f00c7bbc9fde4eceec0.png",
     "static/media/mockup-strakzat-mobile.png": "/static/media/mockup-strakzat-mobile.d8debaf3e3c467c26f48.png",
     "static/media/mockup-divineapocalypse-mobile.png": "/static/media/mockup-divineapocalypse-mobile.51a305b509bb7fbd0707.png",
+    "static/media/mockup-skynerium-mobile.png": "/static/media/mockup-skynerium-mobile.f78118d83aa5f8711436.png",
     "static/media/iphone_mockup.png": "/static/media/iphone_mockup.9fb67173768a20a618bf.png",
     "static/media/macbook_mockup--ILE.png": "/static/media/macbook_mockup--ILE.26b96e1af8c1663045d0.png",
     "static/media/mockup-musicterra-mobile.png": "/static/media/mockup-musicterra-mobile.8d556e5d8ee437d93b47.png",
@@ -38,11 +42,11 @@
     "static/media/wireframe--1.png": "/static/media/wireframe--1.892f717021d4a695b2bc.png",
     "static/media/slime-specialization--mobile.png": "/static/media/slime-specialization--mobile.5f49d8d015eea55d6c23.png",
     "index.html": "/index.html",
-    "main.21472b3c.css.map": "/static/css/main.21472b3c.css.map",
-    "main.49344b4c.js.map": "/static/js/main.49344b4c.js.map"
+    "main.5b033e45.css.map": "/static/css/main.5b033e45.css.map",
+    "main.37b4ff7d.js.map": "/static/js/main.37b4ff7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.21472b3c.css",
-    "static/js/main.49344b4c.js"
+    "static/css/main.5b033e45.css",
+    "static/js/main.37b4ff7d.js"
   ]
 }
