@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.a1387a88.css",
-    "main.js": "/static/js/main.b3e868f8.js",
+    "main.js": "/static/js/main.8144fdcf.js",
     "static/media/MusicRoom.png": "/static/media/MusicRoom.41519389cd3f10638250.png",
     "static/media/MusicLobby.png": "/static/media/MusicLobby.bd23d2866506141272c8.png",
     "static/media/mockup-divineapocalypse-desktop.png": "/static/media/mockup-divineapocalypse-desktop.160b639edc44908b97ee.png",
     "static/media/character.png": "/static/media/character.9014977ea1c75bc1b807.png",
+    "static/media/mockup-eloquence-desktop.png": "/static/media/mockup-eloquence-desktop.1a66d64510cea01663fd.png",
     "static/media/mockup-skynerium-desktop.png": "/static/media/mockup-skynerium-desktop.339e6febcf3747c9c4d8.png",
     "static/media/mockup-bloody-desktop.png": "/static/media/mockup-bloody-desktop.990a6fc6072362bca339.png",
     "static/media/mockup-musicterra-desktop.png": "/static/media/mockup-musicterra-desktop.cd601d34107ee4de2461.png",
     "static/media/mockup-blownaway-desktop.png": "/static/media/mockup-blownaway-desktop.24cfdc845a6bc55f2cfa.png",
     "static/media/wokkel-image.png": "/static/media/wokkel-image.fa5550a174c402cc66b7.png",
+    "static/media/mockup-eloquence-mobile.png": "/static/media/mockup-eloquence-mobile.3c2d6a17c4f22b9dd983.png",
     "static/media/mockup-bloody-mobile.png": "/static/media/mockup-bloody-mobile.1f00c7bbc9fde4eceec0.png",
     "static/media/mockup-strakzat-mobile.png": "/static/media/mockup-strakzat-mobile.d8debaf3e3c467c26f48.png",
     "static/media/mockup-divineapocalypse-mobile.png": "/static/media/mockup-divineapocalypse-mobile.51a305b509bb7fbd0707.png",
@@ -43,10 +45,10 @@
     "static/media/slime-specialization--mobile.png": "/static/media/slime-specialization--mobile.5f49d8d015eea55d6c23.png",
     "index.html": "/index.html",
     "main.a1387a88.css.map": "/static/css/main.a1387a88.css.map",
-    "main.b3e868f8.js.map": "/static/js/main.b3e868f8.js.map"
+    "main.8144fdcf.js.map": "/static/js/main.8144fdcf.js.map"
   },
   "entrypoints": [
     "static/css/main.a1387a88.css",
-    "static/js/main.b3e868f8.js"
+    "static/js/main.8144fdcf.js"
   ]
 }
