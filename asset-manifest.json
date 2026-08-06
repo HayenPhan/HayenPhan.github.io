@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b724f2d7.css",
-    "main.js": "/static/js/main.c1d2f64d.js",
+    "main.js": "/static/js/main.36b0ea28.js",
     "static/media/MusicRoom.png": "/static/media/MusicRoom.41519389cd3f10638250.png",
     "static/media/MusicLobby.png": "/static/media/MusicLobby.bd23d2866506141272c8.png",
     "static/media/mockup-divineapocalypse-desktop.png": "/static/media/mockup-divineapocalypse-desktop.160b639edc44908b97ee.png",
@@ -45,10 +45,10 @@
     "static/media/slime-specialization--mobile.png": "/static/media/slime-specialization--mobile.5f49d8d015eea55d6c23.png",
     "index.html": "/index.html",
     "main.b724f2d7.css.map": "/static/css/main.b724f2d7.css.map",
-    "main.c1d2f64d.js.map": "/static/js/main.c1d2f64d.js.map"
+    "main.36b0ea28.js.map": "/static/js/main.36b0ea28.js.map"
   },
   "entrypoints": [
     "static/css/main.b724f2d7.css",
-    "static/js/main.c1d2f64d.js"
+    "static/js/main.36b0ea28.js"
   ]
 }
